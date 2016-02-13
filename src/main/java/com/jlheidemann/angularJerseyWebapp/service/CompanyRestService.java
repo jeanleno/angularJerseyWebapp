@@ -17,7 +17,7 @@ public class CompanyRestService {
 	public Company getCompany() {
 		Company company = new Company();
 		company.setId(1);
-		company.setName("Empresa");
+		company.setName("Empresa 2");
 		
 		return company;
 	}
